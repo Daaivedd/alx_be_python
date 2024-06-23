@@ -1,7 +1,3 @@
-P = "principal" 
-R = "rate" 
-T = "time" 
-I = "interest"
 P = 1000 
 R = .05 
 T = 3
