@@ -1,8 +1,8 @@
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
-the_type =input("Choose the operation (+, -, *, /): ")
+operation =input("Choose the operation (+, -, *, /): ")
 x = True
-match the_type :
+match operation :
     case  ("+") :
         result = num1 + num2
     case  ("-") :
